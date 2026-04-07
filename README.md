@@ -4,7 +4,7 @@
 
 Ion is an opinionated framework for building a long-lived knowledge base that an AI partner can hold, maintain, and reason over. It runs on top of [Claude Code](https://claude.com/claude-code), is stored as plain markdown in a git repository, and is yours forever.
 
-It works for any domain — a startup, a personal life, a creative project, a research program — and was originally built by [Jaime Gómez Arreche](https://github.com/JaimeGBA) as the keeper of knowledge for his startup [Parametric](https://parametric.ai).
+It works for any domain — a startup, a personal life, a creative project, a research program — and was originally built by [Jaime Gómez Arreche](https://github.com/JaimeGBA) as the keeper of knowledge for his startup [Parametric](https://parametric.build).
 
 ---
 
@@ -96,7 +96,7 @@ The skills are mode-agnostic. Whatever taxonomy you pick, the same `/brief`, `/r
 
 ## Credits
 
-Ion was created by **Jaime Gómez Arreche** ([@JaimeGBA](https://github.com/JaimeGBA)), originally to serve as the keeper of knowledge for his startup [Parametric](https://parametric.ai).
+Ion was created by **Jaime Gómez Arreche** ([@JaimeGBA](https://github.com/JaimeGBA)), originally to serve as the keeper of knowledge for his startup [Parametric](https://parametric.build).
 
 If Ion is useful to you, the best thank-you is to:
 1. ⭐ Star the repo
