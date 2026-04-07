@@ -4,18 +4,19 @@
 
 Ion is an opinionated framework for building a long-lived knowledge base that an AI partner can hold, maintain, and reason over. It runs on top of [Claude Code](https://claude.com/claude-code), is stored as plain markdown in a git repository, and is yours forever.
 
-It works for any domain — a startup, a personal life, a creative project, a research program — and was originally built by [Jaime Gómez Arreche](https://github.com/JaimeGBA) as the keeper of knowledge for his startup [Parametric](https://parametric.build).
+It works for any domain — a startup, a personal life, a creative project, a research program — and was originally built as the keeper of knowledge for my startup [Parametric](https://parametric.build).
 
 ---
 
 ## Why Ion exists
 
-Most "AI knowledge tools" do one of two things:
+Most "AI knowledge tools" do one of three things:
 
 1. **Index your existing files** (Notion AI, ChatGPT projects). The AI is a search bar with a personality. It doesn't *think* about your knowledge.
 2. **Hold context in a chat session**. When the chat ends, the context dies. Tomorrow's conversation starts from scratch.
+3. **Overcomplicate things**. Expect AI models to get better and tools such as Claude Code to offer more features. The best is to *keep it simple*!
 
-Neither is what you actually want. What you want is a partner who **remembers**, **organizes**, **challenges**, and **evolves** with you over years — not minutes.
+What you want is a partner who **remembers**, **organizes**, **challenges**, and **evolves** with you over years.
 
 Ion is an attempt at that. The trick is that it's not software at all. It's:
 
