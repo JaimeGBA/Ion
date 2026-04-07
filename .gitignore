@@ -1,0 +1,16 @@
+# Sensitive data — NEVER commit (everything in .sensitive/ except the README)
+.sensitive/*
+!.sensitive/README.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.obsidian/
+
+# Claude Code local settings (per-machine, not shared)
+.claude/settings.local.json
